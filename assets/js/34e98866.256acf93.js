@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopencashback=self.webpackChunkopencashback||[]).push([[843],{4951:function(e){e.exports=JSON.parse('{"permalink":"/opencashback-doc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

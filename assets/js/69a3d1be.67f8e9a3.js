@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopencashback=self.webpackChunkopencashback||[]).push([[959],{2366:function(a){a.exports=JSON.parse('{"label":"docusaurus","permalink":"/opencashback-doc/blog/tags/docusaurus","allTagsPath":"/opencashback-doc/blog/tags","count":4}')}}]);

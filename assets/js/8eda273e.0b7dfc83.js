@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkopencashback=self.webpackChunkopencashback||[]).push([[894],{3149:function(e){e.exports=JSON.parse('{"label":"hello","permalink":"/lemmoney.github.io/blog/tags/hello","allTagsPath":"/lemmoney.github.io/blog/tags","count":2}')}}]);

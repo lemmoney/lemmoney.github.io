@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopencashback=self.webpackChunkopencashback||[]).push([[576],{7850:function(a){a.exports=JSON.parse('{"label":"hello","permalink":"/opencashback-doc/blog/tags/hello","allTagsPath":"/opencashback-doc/blog/tags","count":2}')}}]);
