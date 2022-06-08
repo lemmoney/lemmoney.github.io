@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopencashback=self.webpackChunkopencashback||[]).push([[823],{8036:function(e){e.exports=JSON.parse('{"title":"OpenCashBack","slug":"/category/opencashback","permalink":"/lemmoney.github.io/docs/category/opencashback","navigation":{"next":{"title":"Error Codes in OpenCashBack","permalink":"/lemmoney.github.io/docs/admin/errors-admin"}}}')}}]);
