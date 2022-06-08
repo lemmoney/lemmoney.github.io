@@ -7,9 +7,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'OpenCashBack Docs',
-  tagline: 'Documentation to help you start working with OpenCashBack',
-  url: 'https://admin.opencashback.com.br',
-  baseUrl: '/',
+  tagline: 'Documentação para ajudá-lo a começar a trabalhar com o OpenCashBack',
+  url: 'https://lemmoney.github.io',
+  baseUrl: '/opencashback-doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/icone-verde.png',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'lemmoney', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'opencashback-doc', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
