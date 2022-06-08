@@ -9,7 +9,7 @@ const config = {
   title: 'OpenCashBack Docs',
   tagline: 'Documentação para ajudá-lo a começar a trabalhar com o OpenCashBack',
   url: 'https://lemmoney.github.io',
-  baseUrl: '/opencashback-doc/',
+  baseUrl: '/lemmoney.github.io/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/icone-verde.png',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'lemmoney', // Usually your GitHub org/user name.
-  projectName: 'opencashback-doc', // Usually your repo name.
+  projectName: 'lemmoney.github.io', // Usually your repo name.
   trailingSlash: false,
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
