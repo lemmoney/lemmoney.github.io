@@ -4,15 +4,14 @@ sidebar_position: 6
 
 # Error Codes in OpenCashBack
 
-![Admin](./img/admin.png)
+<!-- ![Admin](./img/admin.png) -->
 
 Algo correu mal em **Opencashback**? Não se preocupe. Afinal de contas, é por isso que estamos aqui. 
 
 Se recebeu um código de erro, há a possibilidade de haver um número em anexo. Basta encontrar o seu número para saber o seu significado.
 
 ## Códigos
-
-- ## Blacklist
+- ## BLK (Blacklist)
 
     | Código  | Motivo |
     | ------------- | ------------- |

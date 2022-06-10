@@ -13,7 +13,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/icone-verde.png',
-
+  customFields:{
+    image: '@site/static/img/opencashback.svg',
+  },
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'lemmoney', // Usually your GitHub org/user name.
