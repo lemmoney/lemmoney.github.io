@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopencashback=self.webpackChunkopencashback||[]).push([[467],{5435:function(a){a.exports=JSON.parse('{"title":"Opencashback","slug":"/category/opencashback","permalink":"/opencashback-doc/docs/category/opencashback","navigation":{"next":{"title":"C\xf3digos de erro","permalink":"/opencashback-doc/docs/admin/errors-admin"}}}')}}]);
