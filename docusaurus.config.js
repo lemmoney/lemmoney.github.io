@@ -7,7 +7,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'OpenCashBack Docs',
-  tagline: 'Documentação para ajudá-lo a começar a trabalhar com o OpenCashBack',
   url: 'https://lemmoney.github.io',
   baseUrl: '/opencashback-doc/',
   onBrokenLinks: 'throw',
